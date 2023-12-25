@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/holy-pick/static/css/main.c6265343.css",
+    "main.css": "/holy-pick/static/css/main.1d74deb4.css",
     "main.js": "/holy-pick/static/js/main.68cb9a46.js",
     "static/media/vecteezy_cross-easter-watercolor_10250064.png": "/holy-pick/static/media/vecteezy_cross-easter-watercolor_10250064.a42ada969361a76fb398.png",
     "index.html": "/holy-pick/index.html",
-    "main.c6265343.css.map": "/holy-pick/static/css/main.c6265343.css.map",
+    "main.1d74deb4.css.map": "/holy-pick/static/css/main.1d74deb4.css.map",
     "main.68cb9a46.js.map": "/holy-pick/static/js/main.68cb9a46.js.map"
   },
   "entrypoints": [
-    "static/css/main.c6265343.css",
+    "static/css/main.1d74deb4.css",
     "static/js/main.68cb9a46.js"
   ]
 }
