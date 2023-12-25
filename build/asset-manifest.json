@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/holyPick/static/css/main.1ed1df32.css",
-    "main.js": "/holyPick/static/js/main.68cb9a46.js",
-    "static/media/vecteezy_cross-easter-watercolor_10250064.png": "/holyPick/static/media/vecteezy_cross-easter-watercolor_10250064.a42ada969361a76fb398.png",
-    "index.html": "/holyPick/index.html",
-    "main.1ed1df32.css.map": "/holyPick/static/css/main.1ed1df32.css.map",
-    "main.68cb9a46.js.map": "/holyPick/static/js/main.68cb9a46.js.map"
+    "main.css": "/lucia0929.github.io/static/css/main.514c0d21.css",
+    "main.js": "/lucia0929.github.io/static/js/main.68cb9a46.js",
+    "static/media/vecteezy_cross-easter-watercolor_10250064.png": "/lucia0929.github.io/static/media/vecteezy_cross-easter-watercolor_10250064.a42ada969361a76fb398.png",
+    "index.html": "/lucia0929.github.io/index.html",
+    "main.514c0d21.css.map": "/lucia0929.github.io/static/css/main.514c0d21.css.map",
+    "main.68cb9a46.js.map": "/lucia0929.github.io/static/js/main.68cb9a46.js.map"
   },
   "entrypoints": [
-    "static/css/main.1ed1df32.css",
+    "static/css/main.514c0d21.css",
     "static/js/main.68cb9a46.js"
   ]
 }
